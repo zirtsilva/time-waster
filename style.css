@@ -1,0 +1,94 @@
+body{
+    background-color: #37393a;
+    color: rgb(185, 192, 197);
+}
+
+.welcome{
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+    font-size: 80px;
+    color: pink;
+    font-weight: 700;
+}
+
+.question{
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+}
+
+.buttons1{
+    position: relative;
+    text-align: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.button-1{
+    
+    padding: 20px;
+}
+
+.button-2{
+    
+    padding: 20px;
+}
+
+.button-3{
+    
+    padding: 20px;
+}
+
+.button-4{
+    
+    padding: 20px;
+}
+
+
+.buttons2{
+    position: relative;
+    text-align: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.button-5{
+    
+    padding: 20px;
+}
+
+.button-6{
+    
+    padding: 20px;
+}
+
+.button-7{
+    
+    padding: 20px;
+}
+
+.button-8{
+    
+    padding: 20px;
+}
+
+
+
+
+
+
+.toShow{
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    color: red;
+    font-style: italic;
+}
+
+
+img{
+    width:100%;
+    max-width:600px;
+}
